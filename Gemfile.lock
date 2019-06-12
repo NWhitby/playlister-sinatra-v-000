@@ -101,7 +101,7 @@ DEPENDENCIES
   database_cleaner!
   pry
   rack-flash3
-  rack-test (~> 1.1.0)
+  rack-test
   rake
   require_all
   rspec
