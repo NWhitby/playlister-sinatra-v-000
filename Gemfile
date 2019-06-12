@@ -14,6 +14,6 @@ gem 'rack-flash3'
 group :test do
   gem 'rspec'
   gem 'capybara'
-  gem 'rack-test', '~> 1.1.0'
+  gem 'rack-test'
   gem 'database_cleaner', git: 'https://github.com/bmabey/database_cleaner.git'
 end
